@@ -1,0 +1,6 @@
+[package]
+name = "bazel-aws-repro"
+edition = "2021"
+
+[dependencies]
+aws-lc-rs = "1.0"
